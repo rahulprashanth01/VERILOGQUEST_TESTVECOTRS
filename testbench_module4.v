@@ -38,17 +38,17 @@ module tb_T07_genome_editor;
         edit_position = 5'b0;
         replacement  = 8'b0;
 
-        // TODO: Apply reset
+        // Apply reset
 
-        // TODO: Provide genome and replacement data
+        //  Provide genome and replacement data
 
-        // TODO: Trigger an edit request
+        //  Trigger an edit request
 
-        // TODO: Check genome_out, edit_success, and done
+        //  Check genome_out, edit_success, and done
 
-        // TODO: Test invalid edit positions
+        //  Test invalid edit positions
 
-        // TODO: Display test results
+        // Display test results
 
         $finish;
     end
