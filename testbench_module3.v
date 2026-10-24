@@ -40,16 +40,15 @@ module tb_T07_target_locator;
         guide     = 16'b0;
         threshold = 2'b0;
 
-        // TODO: Apply reset
+        //  Apply reset
 
-        // TODO: Provide genome, guide, and threshold
+        // Provide genome, guide, and threshold
 
-        // TODO: Trigger the search using start
+        // Trigger the search using start
 
-        // TODO: Check target_found, target_position,
-        //       mismatch_count, and done
+        //  Check target_found, target_position, mismatch_count, and done
 
-        // TODO: Display test results
+        // Display test results
 
         $finish;
     end
