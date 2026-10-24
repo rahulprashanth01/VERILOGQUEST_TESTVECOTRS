@@ -22,8 +22,8 @@ module tb_T07_guide_matcher;
         window    = 16'b0;
         threshold = 2'b0;
 
-        // TODO: Apply test inputs
-        // TODO: Check outputs
+        //  Apply test inputs
+        //  Check outputs
 
         $finish;
     end
