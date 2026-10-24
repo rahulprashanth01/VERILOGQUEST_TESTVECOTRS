@@ -30,13 +30,13 @@ module tb_T07_genome_window_generator;
         fragment       = 16'b0;
         fragment_valid = 1'b0;
 
-        // TODO: Apply reset
+        // Apply reset
 
-        // TODO: Send genome fragments
+        //  Send genome fragments
 
-        // TODO: Check generated windows and window_valid
+        // Check generated windows and window_valid
 
-        // TODO: Display test results
+        // Display test results
 
         $finish;
     end
